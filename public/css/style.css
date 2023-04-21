@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 100px;
+    height: 100vh;
+    background: rgb(190, 183, 183);
+    color: rgb(75, 133, 133);
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(public\img\backgroungimg.jpg);
+}
+
+.content {
+    align-items: center;
+}
